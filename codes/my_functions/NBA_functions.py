@@ -78,7 +78,7 @@ def get_team_abbreviation(team_identifier: str):
         'MIN': {'official_name': 'Minnesota Timberwolves', 'city': 'Minnesota', 'nicknames': ['Timberwolves', 'Wolves']},
         'NOP': {'official_name': 'New Orleans Pelicans', 'city': 'New Orleans', 'nicknames': ['Pelicans']},
         'NYK': {'official_name': 'New York Knicks', 'city': 'New York', 'nicknames': ['Knicks']},
-        'OKC': {'official_name': 'Oklahoma City Thunder', 'city': 'Oklahoma City', 'nicknames': ['OKC Thunder']},
+        'OKC': {'official_name': 'Oklahoma City Thunder', 'city': 'Oklahoma City', 'nicknames': ['OKC Thunder','OKC', 'oklahoma city','thunder','oklahoma']},
         'ORL': {'official_name': 'Orlando Magic', 'city': 'Orlando', 'nicknames': ['Magic']},
         'PHI': {'official_name': 'Philadelphia 76ers', 'city': 'Philadelphia', 'nicknames': ['76ers', 'Sixers']},
         'PHX': {'official_name': 'Phoenix Suns', 'city': 'Phoenix', 'nicknames': ['Suns']},
