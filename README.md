@@ -11,3 +11,9 @@ It’s a great playground for data science tp:
 🕰️ Leverage historical data to validate models across different seasons and matchups
 
 The richness and structure of NBA data make it a compelling case study for both statistical analysis and machine learning. 
+
+-------
+This is an ongoing project exploring NBA data using the NBA API. While the repo is public, it's primarily a working space where I back up my code, test ideas, and brainstorm. Some parts may be rough around the edges or under development :)
+
+Feel free to explore
+and of course, feedback and collaboration ideas are always welcome!
